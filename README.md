@@ -1,9 +1,15 @@
 
 
+
+
 # Facial Recognition Showdown(Assignment 2)
 
 Hey! I'm Zaim, and this project tests three different facial recognition models against each other to see which one is the fastest and most accurate. Drop your screen recording video right here so people can see the models in action before diving into the code! 
 
+
+
+
+https://github.com/user-attachments/assets/f82919d9-3080-4ce0-b75d-378651ce6ba6
 
 
 
