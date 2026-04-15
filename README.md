@@ -1,6 +1,12 @@
+
+
 # Facial Recognition Showdown(Assignment 2)
 
 Hey! I'm Zaim, and this project tests three different facial recognition models against each other to see which one is the fastest and most accurate. Drop your screen recording video right here so people can see the models in action before diving into the code! 
+
+
+
+
 
 ### How to run it:
 * **Download the code:** Run `git clone https://github.com/zaimzon021/Moarch_Facial_Recognition_Comparision-Machine_Learning_Assignment_2.git` and open the folder.
